@@ -26,7 +26,7 @@ LiterAlura é um projeto Spring Boot que conecta você ao vasto mundo da literat
 2. Clone o Repositório:
 
 ```bash
-git clone https://github.com/rxpt/literarura.git
+git clone https://github.com/rxpt/LiterAlura.git
 ```
 
 3. Execute a Aplicação:
